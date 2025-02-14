@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/home/ingamaholwana/Documents/BlazorWelcome/obj/Debug/net8.0/scopedcss/projectbundle/BlazorWelcome.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorWelcome.bundle.scp.css"
+    },
+    {
+      "Id": "/home/ingamaholwana/Documents/BlazorWelcome/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/ingamaholwana/Documents/BlazorWelcome/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/ingamaholwana/Documents/BlazorWelcome/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/ingamaholwana/Documents/BlazorWelcome/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazorWelcome.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazorWelcome.props",
+      "PackagePath": "build\\BlazorWelcome.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazorWelcome.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWelcome.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazorWelcome.props",
+      "PackagePath": "buildTransitive\\BlazorWelcome.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
